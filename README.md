@@ -8,7 +8,7 @@ Live URL:  https://aminbiography.github.io/python-automation-cti/
 ```
 print, input, variables, if-else, loops, functions, lists, dictionaries, import, try-except
 ```
-
+ 
 ---
 
 ## 1) Setting Up Python

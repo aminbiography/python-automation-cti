@@ -10,7 +10,7 @@ print, input, variables, if-else, loops, functions, lists, dictionaries, import,
 ```
  
 ---
-
+ 
 ## 1) Setting Up Python
 
 Install Python from the official site: `https://www.python.org/downloads/`

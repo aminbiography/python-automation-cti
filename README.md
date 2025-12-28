@@ -1,6 +1,6 @@
 Live URL:  https://aminbiography.github.io/python-automation-cti/
 
----  
+---   
 
 # Essential Python Concepts with Examples and Outputs
 

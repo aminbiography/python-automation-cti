@@ -4,7 +4,7 @@ Live URL:  https://aminbiography.github.io/python-automation-cti/
 
 # Essential Python Concepts with Examples and Outputs
 
-## Python Basics 
+## Python Basics   
 ```
 print, input, variables, if-else, loops, functions, lists, dictionaries, import, try-except
 ```
